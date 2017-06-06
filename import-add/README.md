@@ -6,7 +6,7 @@ Original question: https://stackoverflow.com/questions/44363126/insert-arbitrary
 ### Simulation
 
  - `git clone git@github.com:RubaXa/typescript-api-questions.git`
- - `cd import-add`
+ - `cd typescript-api-questions/import-add`
  - `npm i`
  - `node compiler.js`
  - `cat input.js`
