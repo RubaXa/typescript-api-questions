@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "author": "RubaXa <trash@rubaxa.org>",
+  "devDependencies": {
+    "typescript": "^2.3.4"
+  }
+}
