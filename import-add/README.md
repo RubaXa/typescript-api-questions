@@ -30,7 +30,7 @@ var message = wrapper_1.default("Hmmm....");
 
 ##### But, acutal compiled result
 
-````ts
+```ts
 import externalWrapper from "@external/wrapper";
 var message = externalWrapper("Hmmm....");
 ```
