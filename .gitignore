@@ -61,3 +61,4 @@ typings/
 dist
 compiled
 .idea
+input.js
